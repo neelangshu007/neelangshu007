@@ -8,16 +8,24 @@
 ## **About Me:**
 Python Developer  ||  Android App Developer || Competitive Coder
 
+
 ## **TechStack:**
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-line.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+
 
 
 ## **Github Streak:**
