@@ -1,16 +1,5 @@
 - Hi 👋 I'm Neelangshu, you can also call me Neel
-- 👀 I’m interested in programming and development 
-- 🌱 I’m currently learning android app development 
-- 💞️ I’m looking to collaborate on android app development and automation
-- 📫 How to reach me mail me @ neelangshunath@gmail.com
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
-<!---
-neelangshu007/neelangshu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... DSA
 - 🌱 I’m currently learning ... Native Android App Development and Machine learning 
@@ -72,6 +61,6 @@ Python Developer  ||  Android App Developer || Competitive Coder
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/neelangshu-nath-99a5a0184/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="https://twitter.com/neelangshu_nath"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:neelangshunath@gmail.com?subject=Hey%20Abhijeet,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:neelangshunath@gmail.com?subject=Hey%20Neelangshu,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
