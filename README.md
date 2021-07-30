@@ -1,18 +1,3 @@
-- Hi 👋 I'm Neelangshu, you can also call me Neel
-
-
-- 🔭 I’m currently working on ... DSA
-- 🌱 I’m currently learning ... Native Android App Development and Machine learning 
-- 👯 I’m looking to collaborate on ... anything but specially Android App Development
-- 🤔 I’m looking for help with ... everything
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 
--->
-
-
-
 <h1 align="center">Hi there 👋 I am  Neelangshu Nath  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
 <p align="center"> 
   Visitors count<br>
