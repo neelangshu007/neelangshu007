@@ -46,6 +46,11 @@ Python Developer  ||  Android App Developer || Competitive Coder
 
 ---
 
+## **Github Activity Graph:**
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=neelangshu007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/neelangshu-nath-99a5a0184/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,9 +58,3 @@ Python Developer  ||  Android App Developer || Competitive Coder
     <a href="mailto:neelangshunath@gmail.com?subject=Hey%20Neelangshu,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
----
-
-## **Github Activity Graph:**
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=neelangshu007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
