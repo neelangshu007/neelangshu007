@@ -7,6 +7,7 @@
 
 ## **About Me:**
 Python Developer || Android App Developer || Competitive Coder || Machine learning and Deep learning Enthusiast
+
 Open to work on any project
 
 
