@@ -8,12 +8,12 @@
 ## **About Me:**
 Python Developer || Android App Developer || Competitive Coder || Machine learning and Deep learning Enthusiast
 
--🔭 I’m currently working on React.js, Python, DSA
--🌱 I’m currently learning Machine Learning, TypeScript
--👯 I’m looking to collaborate on Anything :)
--🤔 I’m looking for help with Everything xD
--💬 Ask me about JavaScript, Algorithms
--⚡ Fun fact: I tried every possible way of adding a GIF to the header but I gave up xD
+- 🔭 I’m currently working on React.js, Python, DSA
+- 🌱 I’m currently learning Machine Learning, TypeScript
+- 👯 I’m looking to collaborate on Anything :)
+- 🤔 I’m looking for help with Everything xD
+- 💬 Ask me about JavaScript, Algorithms
+- ⚡ Fun fact: I tried every possible way of adding a GIF to the header but I gave up xD
 
 
 ## **TechStack:**
