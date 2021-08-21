@@ -8,7 +8,7 @@
 ## **About Me:**
 Python Developer || Android App Developer || Competitive Coder || Machine learning and Deep learning Enthusiast
 
-- 🔭 I’m currently working on Android Application Development, Python & DSA
+- 🔭 I’m currently working on  an Android Application Development, Python & DSA
 - 🌱 I’m currently learning Machine Learning & Deep Learning 
 - 👯 I’m looking to collaborate on Anything :)
 - 🤔 I’m looking for help with Everything specially Web Development 
