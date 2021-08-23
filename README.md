@@ -37,7 +37,7 @@ Python Developer || Android App Developer || Competitive Coder || Machine learni
 
 ## **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=neelangshu007&line_height=40&theme=dark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=neelangshu007&line_height=50&theme=dark">
 </p>
 
 ---
