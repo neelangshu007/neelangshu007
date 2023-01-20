@@ -6,14 +6,15 @@
 
 
 ## **About Me:**
-Python Developer || Android App Developer || Competitive Coder || Machine learning and Deep learning Enthusiast
+Backend Developer || Android App Developer || Competitive Coder || Machine learning and Deep learning Enthusiast
 
-- 🔭 I’m currently working on Android Application Development, Python & DSA
-- 🌱 I’m currently learning Machine Learning & Deep Learning 
+- 🔭 I’m currently working on Android Application Development, Backend Development using Rails & DSA
+- 🌱 I’m currently learning Ruby on Rails and Grape API
 - 👯 I’m looking to collaborate on Anything :)
-- 🤔 I’m looking for help with Everything specially Web Development 
+- 🤔 I’m looking for help with Everything specially Web Development (Backend Development)
 - 💬 Ask me about Data Structures, Algorithms & Android Application Development 
 - ⚡ Fun fact: I tried Full stack Development but I didn't like it, maybe someday I will try again 
+- Update: Currently Trying out Full Stack Development (2023)
 
 
 ## **TechStack:**
